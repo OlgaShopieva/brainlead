@@ -12,7 +12,6 @@ from src.analyze_relationships import (
 )
 
 from src.generate_excel import generate_excel
-from src.generate_er import generate_er
 
 
 def load_table_registry():
